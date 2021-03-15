@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">LiyangAss1</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="Register">Register</string>
+    <string name="line">---------------------------or---------------------------</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="Sign_in">Sign in to your app</string>
+    <string name="UserName">UserName</string>
+    <string name="Short_bio">A Short Bio</string>
+    <string name="SignUp">SIGN UP</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_logged_in_page">LoggedInPage</string>
+    <string name="Selfie">TheSelfie</string>
+    <string name="SignOut">SignOut</string>
+    <string name="profile">Profile</string>
+    <string name="thephotosstoredbyuser">ThePhotosStoredByUser</string>
+    <string name="TakePhotos">+</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="confirm">Confirm</string>
+    <string name="caption_here">Caption here!</string>
+    <string name="comment">Comment</string>
+    <string name="send">Send</string>
+    <string name="comments">Comments</string>
+    <string name="shot">shot</string>
+    <string name="what_do_you_think">What do you think?</string>
+    <string name="lookaround">LookAround~</string>
+    <string name="confirmm">confirmm</string>
+    <string name="lookaroundhere">LookAroundHere</string>
+</resources>

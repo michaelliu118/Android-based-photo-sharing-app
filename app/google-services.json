@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347477367734",
+    "project_id": "liyangass1",
+    "storage_bucket": "liyangass1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347477367734:android:610db6a3753dbe8e873f17",
+        "android_client_info": {
+          "package_name": "com.example.liyangass1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347477367734-gpnsrr3io3iv75dqn2l1ffeevrcp0qj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbO4lUzp-6xBHgflTSEFnlUlidpurgl-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347477367734-gpnsrr3io3iv75dqn2l1ffeevrcp0qj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
